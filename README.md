@@ -35,6 +35,6 @@ R|G|B|label
 
 ![](image/patch2d.png)
 
-Before you download and execute code, please go to th following link to download the data:
+Before you download and execute code, please go to the following link to download the data:
 https://drive.google.com/file/d/1ygN12cDL0uMuZLxZ1pQqrrBF6Xn7rkwA/view?usp=sharing
 
