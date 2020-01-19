@@ -1,5 +1,5 @@
 # Spectral Graph Filter Learning for Point Labeling in Airborne LiDAR Data
-[Yinan ZHANG], [Eda BAYRAM]
+Yinan ZHANG, Eda BAYRAM
 
 ## Background
 Airborne Laser Scanning data provides quite dense and highly accurate, yet unorganized point cloud descriptions of the earth surface. For this 3D semantic labelling challenge, we focus on the extraction of building objects. Weighted graphs (highlighting different features) are used to represent these irregular 3D data types.  In this project, We will do a spectral analysis of signals residing on the graph based on typic spectral attributes of the buildings.
@@ -52,6 +52,13 @@ Before you download and execute code, please go to the following link to downloa
 https://drive.google.com/file/d/1ygN12cDL0uMuZLxZ1pQqrrBF6Xn7rkwA/view?usp=sharing
 
 
-## License
-The code is under the MIT License.
-
+## License & Citation
+The code is under the MIT License. Please cite our code if you use it.
+@misc{FilterLearning,
+  author = {Yinan Zhang, Eda Bayram},
+  title = {Spectral Graph Filter Learning for Point Labeling in Airborne LiDAR Data},
+  year = {2019},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://yinanzhangepfl.github.io/Filter-Learning-LiDAR/}},
+}
