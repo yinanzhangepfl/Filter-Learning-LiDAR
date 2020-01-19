@@ -51,4 +51,6 @@ Before you download and execute code, please go to the following link to downloa
 https://drive.google.com/file/d/1ygN12cDL0uMuZLxZ1pQqrrBF6Xn7rkwA/view?usp=sharing
 
 
+## License
+The code is under the MIT License.
 
