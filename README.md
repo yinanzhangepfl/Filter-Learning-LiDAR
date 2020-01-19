@@ -1,4 +1,6 @@
 # LIDAR2019
+
+## Background
 Airborne Laser Scanning data provides quite dense and highly accurate, yet unorganized point cloud descriptions of the earth surface. For this 3D semantic labelling challenge, we focus on the extraction of building objects. Weighted graphs (highlighting different features) are used to represent these irregular 3D data types.  In this project, We will do a spectral analysis of signals residing on the graph based on typic spectral attributes of the buildings.
 
 The training set contains 753876 cloud points in total. For each point, information about xyz coordinates, intensity, return_number, number of returns and label is given, but we only care about xyz coordinates and the label. Data ponits are randomly distributed in each category as shown below.
@@ -35,6 +37,18 @@ R|G|B|label
 
 ![](image/patch2d.png)
 
-Before you download and execute code, please go to the following link to download the data:
+
+## Structure
+Notebook 1: data visualization
+Notebook 2-4: graph construction
+Notebook 5: construct different graph types on different patches and compare filter reponses
+Notebook 6: how to overcome unequal point density distribution
+Notebook 8-9 filter learning
+
+
+## Running
+Before you download and execute code, please go to the following link to download the data and put it the directory named 'data':
 https://drive.google.com/file/d/1ygN12cDL0uMuZLxZ1pQqrrBF6Xn7rkwA/view?usp=sharing
+
+
 
