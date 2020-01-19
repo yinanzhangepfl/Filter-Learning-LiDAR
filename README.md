@@ -54,6 +54,8 @@ https://drive.google.com/file/d/1ygN12cDL0uMuZLxZ1pQqrrBF6Xn7rkwA/view?usp=shari
 
 ## License & Citation
 The code is under the MIT License. Please cite our code if you use it.
+
+```
 @misc{FilterLearning,
   author = {Yinan Zhang, Eda Bayram},
   title = {Spectral Graph Filter Learning for Point Labeling in Airborne LiDAR Data},
@@ -62,3 +64,4 @@ The code is under the MIT License. Please cite our code if you use it.
   journal = {GitHub repository},
   howpublished = {\url{https://yinanzhangepfl.github.io/Filter-Learning-LiDAR/}},
 }
+```
